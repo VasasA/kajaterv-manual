@@ -13,7 +13,6 @@ Fő funkciói:
 ## Hogyan készítsük el a csapattáborunk kajatervét?
 Az alábbi lépéssorozatban áttekintjük egy kajaterv elkészítésének fő lépéseit:
 1. Lépjünk be a Kajatervbe a [https://kajaterv.hu](https://kajaterv.hu) oldalon az Ecset felhasználónkkal. Ha ez nem sikerül, akkor először lépjünk be az Ecsetbe, és utána próbálkozzunk a Kajatervvel.
-2. Ha korábban nem hoztuk létre a csapatunkat, akkor kezdjük ezzel: Bal oldali menüben Csapatok és projektek > Új csapat gomb
-Ehhez a csapathoz fogjuk minden évben hozzárendelni az újabb és újabb kajaterveket. De kajatervei nem csak a csapatoknak lehetnek. Például egy kerületi nagytábort, egy cserkésznap alkalmával létrehozott munkacsoportot, különféle projekteket is regisztrálhatunk itt.
-3. Meghatározhatod az általad létrehozott csapatod tagságát. Katints a csapatra, és az "Új tag felvétele" gombbal bárkit felvehetsz, aki már legalább egyszer belépett a Kajatervbe. A csapattagok hozzáférnek a csapathoz rendelt kajatervekhez.
+2. Ha korábban nem hoztuk létre a csapatunkat, akkor kezdjük ezzel: Bal oldali menüben Csapatok és projektek > Új csapat gomb. Ehhez a csapathoz fogjuk minden évben hozzárendelni az újabb és újabb kajaterveket. De kajatervei nem csak a csapatoknak lehetnek. Például egy kerületi nagytábort, egy cserkésznap alkalmával létrehozott munkacsoportot, különféle projekteket is regisztrálhatunk itt.
+3. Meghatározhatod az általad létrehozott csapatod tagságát. Kattints a csapatra, és az "Új tag felvétele" gombbal bárkit felvehetsz, aki már legalább egyszer belépett a Kajatervbe. A csapattagok hozzáférnek a csapathoz rendelt kajatervekhez.
 4. 
